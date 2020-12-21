@@ -86,8 +86,8 @@ const onPulldownHooks = async (finish: () => void) => {
 | 参数                     | 说明                                                         | 类型    |
 | ------------------------ | ------------------------------------------------------------ | ------- |
 | height                   | 滑动块高度(默认页面高度)                                     | Number  |
-| navHeight                | 头部导航高度, 单位 px (默认0)                                | Number  |
-| tabHeight                | 底部导航高度, 单位 px (默认0)                                | Number  |
+| navHeight                | 头部导航高度, 单位 px (默认46)                                | Number  |
+| tabHeight                | 底部导航高度, 单位 px (默认50)                                | Number  |
 | pullUpLoad               | 是否开启上拉(底部)刷新                                       | Boolean |
 | pullUpLoadEnd            | 是否上拉拖动到底了                                           | Boolean |
 | pullDownRefresh          | 是否开启下拉(头部)刷新                                       | Boolean |
