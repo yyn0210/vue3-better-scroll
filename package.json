@@ -1,0 +1,27 @@
+{
+  "name": "vue3-better-scroll",
+  "version": "1.0.0",
+  "description": "基于 Vue3 | TypeScript | BetterScroll 的滑动块组件",
+  "main": "index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuiMao233/vue3-better-scroll.git"
+  },
+  "author": "Mr.Mao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuiMao233/vue3-better-scroll/issues"
+  },
+  "homepage": "https://github.com/TuiMao233/vue3-better-scroll#readme",
+  "dependencies": {
+    "@better-scroll/core": "^2.0.6",
+    "@better-scroll/pull-down": "^2.0.6",
+    "@better-scroll/pull-up": "^2.0.6"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
