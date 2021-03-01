@@ -1,5 +1,5 @@
 # vue3-better-scroll
-基于 Vue3 | TypeScript | BetterScroll 的滑动块组件
+基于 Vue3 | TypeScript | BetterScroll 的滑动块页面组件
 
 ### Use in SPA
 
